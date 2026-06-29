@@ -3,8 +3,7 @@ I love vibecoding (and a little programming)
 
 ---
 
-![Котенок](https://example.com/kitten.jpg)
-
+![Котенок](images/kitten.jpg)
 ---
 # 🚀 My skills
 
