@@ -1,8 +1,9 @@
-# hi, I'm tuuuuurrrrrrrbbbbbooooooo!!
+# Hi, I'm tuuuuurrrrrrrbbbbbooooooo!!
+I love vibecoding (and a little programming)
 
 ---
 
-# 🚀 my skills
+# 🚀 My skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0866FF?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -22,9 +23,9 @@
 
 
 # 🎓 Education
-**VSU, Faculty of Computer Science** | Software Engineering 
+**VSU, Faculty of Computer Science** 
 
 ---
 
 # 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-tturrbbo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tturrbbo)
+[![GitHub](https://img.shields.io/badge/GitHub-tturrbbo-181717?style=for-the-badge&logo=github&logoColor=white)]
