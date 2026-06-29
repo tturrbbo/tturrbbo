@@ -3,7 +3,7 @@ I love vibecoding (and a little programming)
 
 ---
 
-!(images/Снимок экрана 2026-06-30 013258.png)
+!(images/)
 ---
 # 🚀 My skills
 
