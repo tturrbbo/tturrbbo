@@ -21,6 +21,50 @@ I love vibecoding (and a little programming)
 
 ---
 
+# 💼 Featured Projects
+
+### 1. 👁️ EyeGaze P300 Experimental Stand
+*Python, Computer Vision, Data Analysis*
+- Experimental system for gaze tracking and P300 brain-computer interface research
+- Features real-time monitoring of gaze point, head pose (yaw/pitch/roll), and distance to camera
+- Implements calibration routines, randomized experimental protocols, and automated data collection
+- Includes analysis pipeline with results saved in structured CSV format
+- Built with modular architecture supporting monitor, experiment, and analysis modes
+
+### 2. 🎓 Academic Coursework Collection
+*Python, Java, SQL, Multiple Disciplines*
+
+#### 2.1 Python & Django REST API
+- Backend development with Django framework and RESTful API design
+- Database integration using SQLite and other storage solutions
+- Full-stack web application development experience
+
+#### 2.2 Mathematical Modeling (MV)
+- Jupyter notebooks with NumPy, Pandas, and Matplotlib for mathematical simulations
+- Data analysis and visualization of complex mathematical models
+- Statistical computing and numerical methods implementation
+
+#### 2.3 Computer Graphics (CG)
+- Java-based graphics applications using Swing UI framework
+- Interactive visualizations and graphical utilities
+- Implementation of core computer graphics algorithms
+
+#### 2.4 Object-Oriented Programming (OOP)
+- Java projects demonstrating strong OOP principles and design patterns
+- Complex class hierarchies and software architecture examples
+- Clean code practices and maintainable software design
+
+#### 2.5 Urmat Project
+- Specialized project work (details available in repository)
+
+### 3. 📊 Business Analytics & Predictive Models
+*Python, SQL, Excel/VBA, Machine Learning*
+- Developed churn prediction models and A/B testing frameworks
+- Created analytical dashboards for product metrics and business intelligence
+- Automated reporting pipelines integrating SQL queries with Python analytics
+- Applied statistical analysis and machine learning to fintech/banking datasets
+
+---
 
 # 🎓 Education
 **VSU, Faculty of Computer Science** 
