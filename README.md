@@ -3,7 +3,7 @@ I love vibecoding (and a little programming)
 
 ---
 
-!(images/me.png)
+![me](images/me.png)
 ---
 # 🚀 My skills
 
