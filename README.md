@@ -3,6 +3,9 @@ I love vibecoding (and a little programming)
 
 ---
 
+![Котенок](https://example.com/kitten.jpg)
+
+---
 # 🚀 My skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
