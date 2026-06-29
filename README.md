@@ -3,8 +3,7 @@ I love vibecoding (and a little programming)
 
 ---
 
-![Котенок](<img width="1092" height="419" alt="Снимок экрана 2026-06-30 013258" src="https://github.com/user-attachments/assets/84042b75-34b8-4f70-ac60-0700c73538dc" />
-)
+!(images/Снимок экрана 2026-06-30 013258.png)
 ---
 # 🚀 My skills
 
